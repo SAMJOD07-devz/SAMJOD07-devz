@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-101116?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SAMJOD07-devz/portfolio)
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-101116?style=for-the-badge&logo=vercel&logoColor=white)](https://samjod07-devz.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-pandya-5a0376369)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SAUMYA_PANDYA2207/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyapandyaartist@gmail.com)
