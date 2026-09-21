@@ -18,7 +18,7 @@
 ### Tech Stack & Engineering Arsenal
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,react,nextjs,nodejs,express,vite,postgres,mysql,redis,supabase,docker,git,linux,html,css&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,react,nextjs,nodejs,express,vite,postgres,mysql,supabase,git,linux,html,css&theme=dark" alt="Tech Stack" />
 </a>
 
 </div>
