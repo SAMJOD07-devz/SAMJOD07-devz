@@ -48,13 +48,13 @@ Availability:    Open for SDE Internships, Research & High-Impact Open-Source
 
 | Metric | Verified Score | Details |
 | :--- | :--- | :--- |
-| **Total Problems Solved** | **133** / 4,047 | Top 33% cohort pacing |
-| **Easy Problems** | **69** / 963 | Fundamental data structures & algorithms |
-| **Medium Problems** | **47** / 2,111 | Dynamic programming, graphs, trees, search |
-| **Hard Problems** | **17** / 973 | Advanced algorithmic paradigms & optimizations |
-| **Annual Submissions** | **204** | Consistent engineering momentum |
-| **Active Problem Days** | **80 Days** | High dedication & daily streak discipline |
-| **Milestone Badges** | **2 Badges** | 50 Days Badge 2026 • August Milestone Badge |
+| **Total Problems Solved** | **201** / 4,047 | Top 33% cohort pacing |
+| **Easy Problems** | **92** / 975 | Fundamental data structures & algorithms |
+| **Medium Problems** | **80** / 2,138 | Dynamic programming, graphs, trees, search |
+| **Hard Problems** | **29** / 987 | Advanced algorithmic paradigms & optimizations |
+| **Annual Submissions** | **303** | Consistent engineering momentum |
+| **Active Problem Days** | **115 Days** | High dedication & daily streak discipline |
+| **Milestone Badges** | **5 Badges** | 50 Days Badge 2026 • August Milestone Badge |
 
 <br/>
 
